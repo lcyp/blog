@@ -10,6 +10,18 @@ export const zhNavbar = navbar([
     children: [
       {
         text: "java基础知识",
+<<<<<<< HEAD
+=======
+        icon: "pen-to-square",
+        prefix: "javaDoc/",
+        children: [
+          { text: "java集合", icon: "pen-to-square", link: "1" },
+          { text: "java面试题", icon: "pen-to-square", link: "2" }
+        ],
+      },
+      {
+        text: "苹果",
+>>>>>>> 22d0f8ca056de06fa2ea8d8b29b799497d3f1230
         icon: "pen-to-square",
         prefix: "java基础知识/",
         children: [
@@ -49,12 +61,20 @@ export const zhNavbar = navbar([
           "5"
         ],
       },
+<<<<<<< HEAD
       
       // { text: "樱桃", icon: "pen-to-square", link: "cherry" },
       // { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
       // "tomato",
       
     
+=======
+      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
+      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
+      "tomato",
+      "strawberry",
+      "monkey"
+>>>>>>> 22d0f8ca056de06fa2ea8d8b29b799497d3f1230
     ],
   },
   // {
