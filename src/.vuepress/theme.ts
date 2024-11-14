@@ -4,16 +4,17 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
-
+  hostname: "https://lcyp.github.io/blog/zh/",
+  
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "梁晨阳",
+    url: "https://lcyp.github.io/blog/zh/",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  //小Logo
+  logo: "https://lh3.googleusercontent.com/a/ACg8ocJM3AQM7kD1FCLq7hJy9c3IHbbVHYUo7bITWljoWJ-a1IkC4Q4=s576-c-no",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -96,7 +97,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "一个Java程序员",
         intro: "/zh/intro.html",
       },
 
