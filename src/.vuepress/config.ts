@@ -17,9 +17,9 @@ export default defineUserConfig({
       description: "",
     },
   },
-
   theme,
 
   // Enable it with pwa
   // shouldPrefetch: false,
 });
+

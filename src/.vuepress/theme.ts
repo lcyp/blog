@@ -5,7 +5,7 @@ import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
   hostname: "https://lcyp.github.io/blog/zh/",
-  
+
   author: {
     name: "梁晨阳",
     url: "https://lcyp.github.io/blog/zh/",
@@ -92,6 +92,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
+      //默认页脚
       footer: "默认页脚",
 
       displayFooter: true,
