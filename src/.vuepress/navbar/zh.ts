@@ -19,15 +19,6 @@ export const zhNavbar = navbar([
         ],
       },
       {
-        text: "苹果",
-        icon: "pen-to-square",
-        prefix: "java基础知识/",
-        children: [
-          { text: "java集合", icon: "pen-to-square", link: "1" },
-          { text: "java面试题", icon: "pen-to-square", link: "2" }
-        ],
-      },
-      {
         text: "Spring知识",
         icon: "pen-to-square",
         prefix: "Spring知识/",
