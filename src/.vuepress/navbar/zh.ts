@@ -9,6 +9,15 @@ export const zhNavbar = navbar([
     prefix: "/zh/posts/",
     children: [
       {
+        text: "java基础知识",
+        icon: "pen-to-square",
+        prefix: "javaDoc/",
+        children: [
+          { text: "java集合", icon: "pen-to-square", link: "1" },
+          { text: "java面试题", icon: "pen-to-square", link: "2" }
+        ],
+      },
+      {
         text: "苹果",
         icon: "pen-to-square",
         prefix: "apple/",
@@ -42,6 +51,7 @@ export const zhNavbar = navbar([
       { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
       "tomato",
       "strawberry",
+      "monkey"
     ],
   },
   // {
