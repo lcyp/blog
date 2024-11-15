@@ -14,8 +14,7 @@ export default hopeTheme({
   iconAssets: "fontawesome-with-brands",
 
   //小Logo
-  logo: "https://lh3.googleusercontent.com/a/ACg8ocJM3AQM7kD1FCLq7hJy9c3IHbbVHYUo7bITWljoWJ-a1IkC4Q4=s576-c-no",
- 
+  logo: "https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/unnamed.png",
   //仓库编辑地址
   repo: "lcyp/blog",
 

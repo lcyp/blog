@@ -3,10 +3,11 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: 
+# heroImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/unnamed.png
 heroText: lcy's Blog
+bgImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/%E3%80%90%E6%8F%92%E5%9B%BE%E3%80%912024-09-27%202_21_35.png
+heroFullScreen: false # 是不是全屏展示背景
 tagline: A journey of a thousand miles begins with a single step
-heroFullScreen: true
 projects:
   - icon: project
     name: project name

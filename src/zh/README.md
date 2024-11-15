@@ -3,10 +3,11 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-heroImage: 
+# heroImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/unnamed.png
 heroText: lcy's Blog
-heroFullScreen: true
-tagline: 寒剑千年风雪磨，终有一日拨剑成
+bgImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/%E3%80%90%E6%8F%92%E5%9B%BE%E3%80%912024-09-27%202_21_35.png
+heroFullScreen: false # 是不是全屏展示背景
+tagline: <em>寒剑千年风雪磨，终有一日拨剑成</em>
 projects:
   - icon: project
     name: 项目名称
