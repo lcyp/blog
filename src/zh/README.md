@@ -8,6 +8,7 @@ heroText: lcy's Blog
 bgImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/%E3%80%90%E6%8F%92%E5%9B%BE%E3%80%912024-09-27%202_21_35.png
 heroFullScreen: false # 是不是全屏展示背景
 tagline: <em>寒剑千年风雪磨，终有一日拨剑成</em>
+
 projects:
   - icon: project
     name: 项目名称
@@ -15,9 +16,9 @@ projects:
     link: https://你的项目链接
 
   - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+    name: CSDN
+    desc: 我的CSDN博客地址
+    link: https://blog.csdn.net/qq_64688685?spm=1011.2415.3001.5343
 
   - icon: book
     name: 书籍名称
@@ -39,7 +40,7 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 自定义你的页脚文字
+# footer: 自定义你的页脚文字
 ---
 
 <!-- 这是一个博客主页的案例。
