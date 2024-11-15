@@ -15,8 +15,9 @@ export default hopeTheme({
 
   //小Logo
   logo: "https://lh3.googleusercontent.com/a/ACg8ocJM3AQM7kD1FCLq7hJy9c3IHbbVHYUo7bITWljoWJ-a1IkC4Q4=s576-c-no",
-
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+ 
+  //仓库编辑地址
+  repo: "lcyp/blog",
 
   docsDir: "src",
 
