@@ -12,7 +12,7 @@ export const zhNavbar = navbar([
         text: "java基础知识",
 
         icon: "pen-to-square",
-        prefix: "javaDoc/",
+        prefix: "java基础知识/",
         children: [
           { text: "java集合", icon: "pen-to-square", link: "1" },
           { text: "java面试题", icon: "pen-to-square", link: "2" }
