@@ -50,7 +50,33 @@ export const zhNavbar = navbar([
           "5"
         ],
       },
+      {
+        text: "Redis",
+        icon: "pen-to-square",
+        prefix: "Redis/",
+        children: [
+        
+          {
+            text: "Redis经典面试题",
+            icon: "pen-to-square",
+            link: "1",
+          }
+        ],
+      },
 
+      {
+        text: "MySql",
+        icon: "pen-to-square",
+        prefix: "Mysql/",
+        children: [
+        
+          {
+            text: "MySQL经典面试题",
+            icon: "pen-to-square",
+            link: "1",
+          }
+        ],
+      },
       
       // { text: "樱桃", icon: "pen-to-square", link: "cherry" },
       // { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
