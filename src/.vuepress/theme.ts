@@ -127,7 +127,18 @@ export default hopeTheme({
       author: "liangchenyang",
       disableCopy: true,//禁用复制
     },
-  
+    //启用搜索插件
+    search: {
+      locales: {
+        "/": {
+          placeholder: "search..",
+        },
+        "/zh/": {
+          placeholder: "搜索..",
+        },
+      },
+    },
+    
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
