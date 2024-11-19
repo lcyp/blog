@@ -121,7 +121,13 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
+    //添加版权信息
+    copyright: {
+      global: true,
+      author: "liangchenyang",
+      disableCopy: true,//禁用复制
+    },
+  
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
