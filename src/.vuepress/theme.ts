@@ -21,8 +21,8 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      Baidu: "https://www.baidu.com/",
+      BiliBili: "https://www.bilibili.com/",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
       Discord: "https://example.com",
@@ -92,7 +92,7 @@ export default hopeTheme({
       sidebar: zhSidebar,
 
       //默认页脚
-      footer: "默认页脚",
+      footer: "   ",
 
       displayFooter: true,
 

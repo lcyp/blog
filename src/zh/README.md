@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 主页
-# heroImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/unnamed.png
+#heroImage: /144.png
 heroText: lcy's Blog
 # 背景
 # 谢谢mo7.cc提供的背景图片，感谢！
@@ -36,7 +36,7 @@ projects:
     desc: 伙伴详细介绍
     link: https://你的伙伴链接
 
-  - icon: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/unnamed.png
+  - icon: logo
     name: 自定义项目
     desc: 自定义详细介绍
     link: https://你的自定义链接
