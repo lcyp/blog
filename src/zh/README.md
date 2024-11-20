@@ -5,10 +5,11 @@ icon: home
 title: 主页
 # heroImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/unnamed.png
 heroText: lcy's Blog
-bgImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/%E3%80%90%E6%8F%92%E5%9B%BE%E3%80%912024-09-27%202_21_35.png
-heroFullScreen: false # 是不是全屏展示背景
+# 背景
+# 谢谢mo7.cc提供的背景图片，感谢！
+bgImage: https://file.mo7.cc/api/public/bz
+heroFullScreen: true # 是不是全屏展示背景
 tagline: <em>寒剑千年风雪磨，终有一日拨剑成</em>
-
 projects:
   - icon: project
     name: 项目名称
@@ -35,16 +36,10 @@ projects:
     desc: 伙伴详细介绍
     link: https://你的伙伴链接
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
+  - icon: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/unnamed.png
     name: 自定义项目
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
 # footer: 自定义你的页脚文字
 ---
-
-<!-- 这是一个博客主页的案例。
-
-要使用此布局，你应该在页面前端设置 `layout: BlogHome` 和 `home: true`。
-
-相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。 -->
