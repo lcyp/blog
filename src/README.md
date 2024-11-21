@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 # heroImage: https://sky-take-out-lcy.oss-cn-beijing.aliyuncs.com/unnamed.png
-heroText: lcy's Blog
+heroText: 𝒍𝒄𝒚'𝒔 𝒃𝒍𝒐𝒈
 bgImage: https://file.mo7.cc/api/public/bz
 heroFullScreen: true # 是不是全屏展示背景
 tagline: A journey of a thousand miles begins with a single step

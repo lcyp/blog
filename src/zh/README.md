@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 主页
 #heroImage: /144.png
-heroText: lcy's Blog
+heroText: 𝒍𝒄𝒚'𝒔 𝒃𝒍𝒐𝒈
 # 背景
 # 谢谢mo7.cc提供的背景图片，感谢！
 bgImage: https://file.mo7.cc/api/public/bz
