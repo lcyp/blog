@@ -10,7 +10,7 @@ export const zhSidebar = sidebar({
       children:[
         {
           text: "Redis",
-          icon: "book",
+          icon: "/icons/devicon--redis.png",
           collapsible: true,
           prefix: "Redis/",
           children:[
@@ -19,13 +19,13 @@ export const zhSidebar = sidebar({
         },
         {
           text: "面试求职",
-          icon: "book",
+          icon: "/icons/mynaui--face-id.png",
           prefix: "面试求职/",
           collapsible: true,
           children:[
            {
              text: "java基础知识",
-             icon: "book",
+             icon: "/icons/devicon--java.png",
              collapsible: true, 
              prefix: "java基础知识/",
              children:[
@@ -35,7 +35,7 @@ export const zhSidebar = sidebar({
            },
            {
             text: "JVM",
-            icon: "book",
+            icon: "/icons/lineicons--vmware.png",
             collapsible: true, 
             prefix: "JVM/",
             children:[

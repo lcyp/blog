@@ -4,4 +4,4 @@ icon: circle-info
 
 # 介绍页
 
-一名Java开发工程师
+大四学生在读，Java后端开发实习。
