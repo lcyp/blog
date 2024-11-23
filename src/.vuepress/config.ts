@@ -20,7 +20,7 @@ export default defineUserConfig({
   //网页logo
   head:[
     ['link', { rel: 'icon', href: '/blog/favicon.ico' }],
-  ]
+  ],
   // Enable it with pwa
   // shouldPrefetch: false,
 });
