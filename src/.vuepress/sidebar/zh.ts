@@ -46,6 +46,36 @@ export const zhSidebar = sidebar({
               "5",
             ],
           },
+          {
+            text: "MySQL",
+            icon: "/icons/logos--mysql.png",
+            collapsible: true, 
+            prefix: "Mysql/",
+            children:[
+              "1",
+            ],
+          },
+          {
+            text: "Redis",
+            icon: "/icons/devicon--redis.png",
+            collapsible: true, 
+            prefix: "Redis/",
+            children:[
+              "1",
+            ],
+          },
+          {
+            text: "Spring",
+            icon: "/icons/devicon--spring.png",
+            collapsible: true, 
+            prefix: "Spring知识/",
+            children:[
+              "1",
+              "2",
+              "3",
+              "4",
+            ],
+          },
           ],
         }
       ]

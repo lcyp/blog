@@ -3,9 +3,9 @@ icon: pen-to-square
 date: 2022-01-01
 copy: false #打开复制权限
 category:
-  - java基础知识
+  - Redis
 tag:
-  - 集合
+  - 分布式锁
 
 ---
 
