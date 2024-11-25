@@ -129,7 +129,7 @@ export default hopeTheme({
     //启用搜索插件
     docsearch: {
       appId: "WO9E5FYMM2",
-      apiKey: "ac8c9e41579e57f9e39893da865945be",
+      apiKey: "31e9e23f17b0ae564905427a3999eeab",
       indexName: "lcypio",
     },
 
