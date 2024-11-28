@@ -12,10 +12,6 @@ import "vuepress-theme-hope/presets/bounce-icon.scss" //鼠标悬停跳动效果
 
 export default defineClientConfig({
 
-  enhance({ app }) {
-    //引入点击特效
-    import("./public/click-effect.js");
-  },
 
   //下雪
   setup() {
