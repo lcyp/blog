@@ -9,6 +9,7 @@ import "vuepress-theme-hope/presets/hr-driving-car.scss"//为所有 hr 元素添
 //import "vuepress-theme-hope/presets/hide-navbar-icon.scss" //隐藏导航栏图标。
 //import  "vuepress-theme-hope/presets/hide-sidebar-icon.scss" //隐藏侧边栏图标。
 import "vuepress-theme-hope/presets/bounce-icon.scss" //鼠标悬停跳动效果
+import NavMusic from "./components/NavMusic.vue";
 
 export default defineClientConfig({
 
@@ -18,7 +19,7 @@ export default defineClientConfig({
     setupSnowFall();
     setupTransparentNavbar({ type: "homepage" });
     setupRunningTimeFooter(
-      new Date("2022-01-01"),
+      new Date("2024-11-14"),
       {
         "/": "Running time: :day days :hour hours :minute minutes :second seconds",
         "/zh/": "已运行 :day 天 :hour 小时 :minute 分钟 :second 秒",
@@ -26,4 +27,7 @@ export default defineClientConfig({
       true,
     );
   },
+  rootComponents: [
+    NavMusic,
+  ]
 });
