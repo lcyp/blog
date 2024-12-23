@@ -22,9 +22,9 @@ projects:
     link: https://blog.csdn.net/qq_64688685?spm=1011.2415.3001.5343
 
   - icon: book
-    name: 书籍名称
-    desc: 书籍详细描述
-    link: https://你的书籍链接
+    name: 编程规范
+    desc: Hawstein的编程风格规范一书
+    link: https://jervyshi.gitbooks.io/google-java-styleguide-zh/content/index.html
 
   - icon: article
     name: 文章名称
