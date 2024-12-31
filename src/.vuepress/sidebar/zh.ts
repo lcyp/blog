@@ -9,6 +9,18 @@ export const zhSidebar = sidebar({
       prefix: "posts/",
       children: [
         {
+          text: "Dubbo",
+          icon: "/icons/dubbo.png",
+          collapsible: true,
+          prefix: "Dubbo/",
+          children: [
+            "1",
+            "2",
+            "3",
+            "4",
+          ],
+        },
+        {
           text: "JVM",
           icon: "/icons/lineicons--vmware.png",
           collapsible: true,
