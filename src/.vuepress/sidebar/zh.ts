@@ -30,6 +30,7 @@ export const zhSidebar = sidebar({
             "2",
             "3",
             "4",
+            "5",
           ],
         },
         {
