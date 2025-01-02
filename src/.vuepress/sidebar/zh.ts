@@ -27,6 +27,7 @@ export const zhSidebar = sidebar({
           prefix: "JVM/",
           children: [
             "1",
+            "2",
           ],
         },
         {
