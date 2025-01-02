@@ -28,6 +28,8 @@ export const zhSidebar = sidebar({
           children: [
             "1",
             "2",
+            "3",
+            "4",
           ],
         },
         {
